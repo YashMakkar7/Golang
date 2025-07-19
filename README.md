@@ -15,3 +15,18 @@ This repository is my personal journey to learn Go, covering:
 - 🔥 Small projects to apply concepts  
 - 📚 Useful resources  
 
+## 🏃‍♂️ Getting Started
+
+To run Go programs from this repo:
+
+1. **Install Go**  
+   👉 [Official installation guide](https://go.dev/doc/install)
+
+2. **Clone this repository**
+   ```bash
+   git clone https://github.com/YashMakkar7/Golang.git
+   cd learn-go
+
+3. **Run a file**
+    ```bash
+    go run file-name.go
