@@ -20,3 +20,6 @@ func main() {
 
 // GOOS="windows" go build  -> build for windows 
 // GOOS="darwin" go build  -> build for mac 
+
+// In golang memory management is not your job
+// memory allocation and de allocation happen by itself
