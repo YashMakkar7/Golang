@@ -35,4 +35,10 @@ func main() {
 	fmt.Println(highScore)//[21 55 66 70 71 72 73]
 	fmt.Println(sort.IntsAreSorted(highScore)) //true
 
+	// remove values from slice based on index
+	var courses = []string{"react","node","rust","python"}
+	index := 2
+	courses = append(courses[:index],courses[index+1:]...)
+	fmt.Println(courses)
+
 }
