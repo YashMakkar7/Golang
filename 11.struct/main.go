@@ -18,6 +18,3 @@ type User struct {
 	Age      int
 	Status   bool
 }
-
-
-// Hello
